@@ -4,7 +4,7 @@ Repository on simple python Calculators
 2. Time Converter - converts the number of seconds to hours, minutes, and seconds
 3. Surface Area of Cylinder Calculator - Calculates the surface area of a Cylinder in the units given
 4. Cost Calculator - Calculates the cost of a product after GST
-
+5. Number Guessing Game - Guess the number
 
 
 
